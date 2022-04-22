@@ -1,0 +1,1 @@
+The goal of this challenge was given a string, to find the minumum number of insertions to find a palindrome. If multiple solutions exist, return the lexographically earliest.
